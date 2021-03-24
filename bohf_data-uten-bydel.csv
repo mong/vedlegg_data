@@ -1,0 +1,737 @@
+komnr;komnr_navn;opptaksomr;opptaksomr_navn
+101;0101 Halden (-2019);14;Østfold
+104;0104 Moss (-2019);14;Østfold
+105;0105 Sarpsborg (1992-2019);14;Østfold
+106;0106 Fredrikstad (1994-2019);14;Østfold
+111;0111 Hvaler (-2019);14;Østfold
+118;0118 Aremark (-2019);14;Østfold
+119;0119 Marker (-2019);14;Østfold
+121;0121 Rømskog (-2019);15;Akershus
+122;0122 Trøgstad (-2019);14;Østfold
+123;0123 Spydeberg (-2019);14;Østfold
+124;0124 Askim (-2019);14;Østfold
+125;0125 Eidsberg (-2019);14;Østfold
+127;0127 Skiptvet (-2019);14;Østfold
+128;0128 Rakkestad (-2019);14;Østfold
+135;0135 Råde (-2019);14;Østfold
+136;0136 Rygge (-2019);14;Østfold
+137;0137 Våler (Østfold) (-2019);14;Østfold
+138;0138 Hobøl (-2019);14;Østfold
+211;0211 Vestby (-2019);15;Akershus
+213;0213 Ski (-2019);15;Akershus
+214;0214 Ås (-2019);15;Akershus
+215;0215 Frogn (-2019);15;Akershus
+216;0216 Nesodden (-2019);15;Akershus
+217;0217 Oppegård (-2019);15;Akershus
+219;0219 Bærum (-2019);20;Vestre Viken
+220;0220 Asker (-2019);20;Vestre Viken
+221;0221 Aurskog-Høland (-2019);15;Akershus
+226;0226 Sørum (-2019);15;Akershus
+227;0227 Fet (-2019);15;Akershus
+228;0228 Rælingen (-2019);15;Akershus
+229;0229 Enebakk (-2019);15;Akershus
+230;0230 Lørenskog (-2019);15;Akershus
+231;0231 Skedsmo (-2019);15;Akershus
+233;0233 Nittedal (-2019);15;Akershus
+234;0234 Gjerdrum (-2019);15;Akershus
+235;0235 Ullensaker (-2019);15;Akershus
+236;0236 Nes (Akershus) (-2019);19;Innlandet
+237;0237 Eidsvoll (-2019);15;Akershus
+238;0238 Nannestad (-2019);15;Akershus
+301;0301 Oslo kommune;16;Oslo
+402;0402 Kongsvinger (-2019);19;Innlandet
+403;0403 Hamar (1992-2019);19;Innlandet
+412;0412 Ringsaker (-2019);19;Innlandet
+415;0415 Løten (-2019);19;Innlandet
+417;0417 Stange (-2019);19;Innlandet
+418;0418 Nord-Odal (-2019);19;Innlandet
+419;0419 Sør-Odal (-2019);19;Innlandet
+420;0420 Eidskog (-2019);19;Innlandet
+423;0423 Grue (-2019);19;Innlandet
+425;0425 Åsnes (-2019);19;Innlandet
+426;0426 Våler (Hedmark) (-2019);19;Innlandet
+427;0427 Elverum (-2019);19;Innlandet
+428;0428 Trysil (-2019);19;Innlandet
+429;0429 Åmot (-2019);19;Innlandet
+430;0430 Stor-Elvdal (-2019);19;Innlandet
+432;0432 Rendalen (-2019);19;Innlandet
+434;0434 Engerdal (-2019);19;Innlandet
+436;0436 Tolga (-2019);19;Innlandet
+437;0437 Tynset (-2019);19;Innlandet
+438;0438 Alvdal (-2019);19;Innlandet
+439;0439 Folldal (-2019);19;Innlandet
+441;0441 Os (Hedmark) (1976-2019);19;Innlandet
+501;0501 Lillehammer (-2019);19;Innlandet
+502;0502 Gjøvik (-2019);19;Innlandet
+511;0511 Dovre (-2019);19;Innlandet
+512;0512 Lesja (-2019);19;Innlandet
+513;0513 Skjåk (-2019);19;Innlandet
+514;0514 Lom (-2019);19;Innlandet
+515;0515 Vågå (-2019);19;Innlandet
+516;0516 Nord-Fron (-2019);19;Innlandet
+517;0517 Sel (-2019);19;Innlandet
+519;0519 Sør-Fron (-2019);19;Innlandet
+520;0520 Ringebu (-2019);19;Innlandet
+521;0521 Øyer (-2019);19;Innlandet
+522;0522 Gausdal (-2019);19;Innlandet
+528;0528 Østre Toten (-2019);19;Innlandet
+529;0529 Vestre Toten (-2019);19;Innlandet
+532;0532 Jevnaker (-2019);20;Vestre Viken
+533;0533 Lunner (-2019);19;Innlandet
+534;0534 Gran (-2019);19;Innlandet
+536;0536 Søndre Land (-2019);19;Innlandet
+538;0538 Nordre Land (-2019);19;Innlandet
+540;0540 Sør-Aurdal (-2019);19;Innlandet
+541;0541 Etnedal (-2019);19;Innlandet
+542;0542 Nord-Aurdal (-2019);19;Innlandet
+543;0543 Vestre Slidre (-2019);19;Innlandet
+544;0544 Øystre Slidre (-2019);19;Innlandet
+545;0545 Vang (-2019);19;Innlandet
+602;0602 Drammen (-2019);20;Vestre Viken
+604;0604 Kongsberg (-2019);20;Vestre Viken
+605;0605 Ringerike (1977-2019);20;Vestre Viken
+612;0612 Hole (1977-2019);20;Vestre Viken
+615;0615 Flå (-2019);20;Vestre Viken
+616;0616 Nes (Buskerud) (-2019);20;Vestre Viken
+617;0617 Gol (-2019);20;Vestre Viken
+618;0618 Hemsedal (-2019);20;Vestre Viken
+619;0619 Ål (-2019);20;Vestre Viken
+620;0620 Hol (-2019);20;Vestre Viken
+621;0621 Sigdal (-2019);20;Vestre Viken
+622;0622 Krødsherad (-2019);20;Vestre Viken
+623;0623 Modum (-2019);20;Vestre Viken
+624;0624 Øvre Eiker (-2019);20;Vestre Viken
+625;0625 Nedre Eiker (-2019);20;Vestre Viken
+626;0626 Lier (-2019);20;Vestre Viken
+627;0627 Røyken (-2019);20;Vestre Viken
+628;0628 Hurum (-2019);20;Vestre Viken
+631;0631 Flesberg (-2019);20;Vestre Viken
+632;0632 Rollag (-2019);20;Vestre Viken
+633;0633 Nore og Uvdal (-2019);20;Vestre Viken
+701;0701 Horten (2002-2019);21;Vestfold
+702;0702 Holmestrand (-2017);21;Vestfold
+704;0704 Tønsberg (1988-2019);21;Vestfold
+706;0706 Sandefjord (-2016);21;Vestfold
+709;0709 Larvik (1988-2017);21;Vestfold
+710;0710 Sandefjord (2017-2019);21;Vestfold
+711;0711 Svelvik (-2019);20;Vestre Viken
+712;0712 Larvik (2018-2019);21;Vestfold
+713;0713 Sande (Vestfold) (-2019);20;Vestre Viken
+714;0714 Hof (-2017);21;Vestfold
+715;0715 Holmestrand (2018-2019);21;Vestfold
+716;0716 Re (2002-2019);21;Vestfold
+719;0719 Andebu (-2016);21;Vestfold
+720;0720 Stokke (-2016);21;Vestfold
+722;0722 Nøtterøy (-2017);21;Vestfold
+723;0723 Tjøme (-2017);21;Vestfold
+728;0728 Lardal (-2017);21;Vestfold
+729;0729 Færder (2018-2019);21;Vestfold
+805;0805 Porsgrunn (-2019);22;Telemark
+806;0806 Skien (-2019);22;Telemark
+807;0807 Notodden (-2019);22;Telemark
+811;0811 Siljan (-2019);22;Telemark
+814;0814 Bamble (-2019);22;Telemark
+815;0815 Kragerø (-2019);22;Telemark
+817;0817 Drangedal (-2019);22;Telemark
+819;0819 Nome (-2019);22;Telemark
+821;0821 Bø (Telemark) (-2019);22;Telemark
+822;0822 Sauherad (-2019);22;Telemark
+826;0826 Tinn (-2019);22;Telemark
+827;0827 Hjartdal (-2019);22;Telemark
+828;0828 Seljord (-2019);22;Telemark
+829;0829 Kviteseid (-2019);22;Telemark
+830;0830 Nissedal (-2019);22;Telemark
+831;0831 Fyresdal (-2019);22;Telemark
+833;0833 Tokke (-2019);22;Telemark
+834;0834 Vinje (-2019);22;Telemark
+901;0901 Risør (-2019);23;Sørlandet
+904;0904 Grimstad (-2019);23;Sørlandet
+906;0906 Arendal (1992-2019);23;Sørlandet
+911;0911 Gjerstad (-2019);23;Sørlandet
+912;0912 Vegårshei (-2019);23;Sørlandet
+914;0914 Tvedestrand (-2019);23;Sørlandet
+919;0919 Froland (-2019);23;Sørlandet
+926;0926 Lillesand (-2019);23;Sørlandet
+928;0928 Birkenes (-2019);23;Sørlandet
+929;0929 Åmli (-2019);23;Sørlandet
+935;0935 Iveland (-2019);23;Sørlandet
+937;0937 Evje og Hornnes (-2019);23;Sørlandet
+938;0938 Bygland (-2019);23;Sørlandet
+940;0940 Valle (-2019);23;Sørlandet
+941;0941 Bykle (-2019);23;Sørlandet
+1001;1001 Kristiansand (-2019);23;Sørlandet
+1002;1002 Mandal (-2019);23;Sørlandet
+1003;1003 Farsund (-2019);23;Sørlandet
+1004;1004 Flekkefjord (-2019);23;Sørlandet
+1014;1014 Vennesla (-2019);23;Sørlandet
+1017;1017 Songdalen (-2019);23;Sørlandet
+1018;1018 Søgne (-2019);23;Sørlandet
+1021;1021 Marnardal (-2019);23;Sørlandet
+1026;1026 Åseral (-2019);23;Sørlandet
+1027;1027 Audnedal (-2019);23;Sørlandet
+1029;1029 Lindesnes (-2019);23;Sørlandet
+1032;1032 Lyngdal (-2019);23;Sørlandet
+1034;1034 Hægebostad (-2019);23;Sørlandet
+1037;1037 Kvinesdal (-2019);23;Sørlandet
+1046;1046 Sirdal (-2019);23;Sørlandet
+1101;1101 Eigersund;13;Stavanger
+1102;1102 Sandnes (-2019);13;Stavanger
+1103;1103 Stavanger;13;Stavanger
+1106;1106 Haugesund;12;Fonna
+1108;1108 Sandnes;13;Stavanger
+1111;1111 Sokndal;13;Stavanger
+1112;1112 Lund;13;Stavanger
+1114;1114 Bjerkreim;13;Stavanger
+1119;1119 Hå;13;Stavanger
+1120;1120 Klepp;13;Stavanger
+1121;1121 Time;13;Stavanger
+1122;1122 Gjesdal;13;Stavanger
+1124;1124 Sola;13;Stavanger
+1127;1127 Randaberg;13;Stavanger
+1129;1129 Forsand (-2019);13;Stavanger
+1130;1130 Strand;13;Stavanger
+1133;1133 Hjelmeland;13;Stavanger
+1134;1134 Suldal;12;Fonna
+1135;1135 Sauda;12;Fonna
+1141;1141 Finnøy (-2019);13;Stavanger
+1142;1142 Rennesøy (-2019);13;Stavanger
+1144;1144 Kvitsøy;13;Stavanger
+1145;1145 Bokn;12;Fonna
+1146;1146 Tysvær;12;Fonna
+1149;1149 Karmøy;12;Fonna
+1151;1151 Utsira;12;Fonna
+1160;1160 Vindafjord;12;Fonna
+1201;1201 Bergen (-2019);11;Bergen
+1211;1211 Etne (-2019);12;Fonna
+1216;1216 Sveio (-2019);12;Fonna
+1219;1219 Bømlo (-2019);12;Fonna
+1221;1221 Stord (-2019);12;Fonna
+1222;1222 Fitjar (-2019);12;Fonna
+1223;1223 Tysnes (-2019);12;Fonna
+1224;1224 Kvinnherad (-2019);12;Fonna
+1227;1227 Jondal (-2019);12;Fonna
+1228;1228 Odda (-2019);12;Fonna
+1231;1231 Ullensvang (1977-2019);12;Fonna
+1232;1232 Eidfjord (-2019);12;Fonna
+1233;1233 Ulvik (-2019);11;Bergen
+1234;1234 Granvin (-2019);11;Bergen
+1235;1235 Voss (-2019);11;Bergen
+1238;1238 Kvam (-2019);11;Bergen
+1241;1241 Fusa (-2019);11;Bergen
+1242;1242 Samnanger (-2019);11;Bergen
+1243;1243 Os (Hordaland) (-2019);11;Bergen
+1244;1244 Austevoll (-2019);11;Bergen
+1245;1245 Sund (-2019);11;Bergen
+1246;1246 Fjell (-2019);11;Bergen
+1247;1247 Askøy (-2019);11;Bergen
+1251;1251 Vaksdal (-2019);11;Bergen
+1252;1252 Modalen (-2019);11;Bergen
+1253;1253 Osterøy (-2019);11;Bergen
+1256;1256 Meland (-2019);11;Bergen
+1259;1259 Øygarden (-2019);11;Bergen
+1260;1260 Radøy (-2019);11;Bergen
+1263;1263 Lindås (-2019);11;Bergen
+1264;1264 Austrheim (-2019);11;Bergen
+1265;1265 Fedje (-2019);11;Bergen
+1266;1266 Masfjorden (-2019);11;Bergen
+1401;1401 Flora (-2019);10;Førde
+1411;1411 Gulen (-2019);10;Førde
+1412;1412 Solund (-2019);10;Førde
+1413;1413 Hyllestad (-2019);10;Førde
+1416;1416 Høyanger (-2019);10;Førde
+1417;1417 Vik (-2019);10;Førde
+1418;1418 Balestrand (-2019);10;Førde
+1419;1419 Leikanger (-2019);10;Førde
+1420;1420 Sogndal (-2019);10;Førde
+1421;1421 Aurland (-2019);10;Førde
+1422;1422 Lærdal (-2019);10;Førde
+1424;1424 Årdal (-2019);10;Førde
+1426;1426 Luster (-2019);10;Førde
+1428;1428 Askvoll (-2019);10;Førde
+1429;1429 Fjaler (-2019);10;Førde
+1430;1430 Gaular (-2019);10;Førde
+1431;1431 Jølster (-2019);10;Førde
+1432;1432 Førde (-2019);10;Førde
+1433;1433 Naustdal (-2019);10;Førde
+1438;1438 Bremanger (-2019);10;Førde
+1439;1439 Vågsøy (-2019);10;Førde
+1441;1441 Selje (-2019);10;Førde
+1443;1443 Eid (-2019);10;Førde
+1444;1444 Hornindal (-2019);10;Førde
+1445;1445 Gloppen (-2019);10;Førde
+1449;1449 Stryn (1977-2019);10;Førde
+1502;1502 Molde (-2019);8;Møre og Romsdal
+1504;1504 Ålesund (1977-2019);8;Møre og Romsdal
+1505;1505 Kristiansund;8;Møre og Romsdal
+1506;1506 Molde;8;Møre og Romsdal
+1507;1507 Ålesund;8;Møre og Romsdal
+1511;1511 Vanylven;8;Møre og Romsdal
+1514;1514 Sande (Møre og Romsdal);8;Møre og Romsdal
+1515;1515 Herøy (Møre og Romsdal);8;Møre og Romsdal
+1516;1516 Ulstein;8;Møre og Romsdal
+1517;1517 Hareid;8;Møre og Romsdal
+1519;1519 Volda (-2019);8;Møre og Romsdal
+1520;1520 Ørsta;8;Møre og Romsdal
+1523;1523 Ørskog (1977-2019);8;Møre og Romsdal
+1524;1524 Norddal (-2019);8;Møre og Romsdal
+1525;1525 Stranda;8;Møre og Romsdal
+1526;1526 Stordal (-2019);8;Møre og Romsdal
+1528;1528 Sykkylven;8;Møre og Romsdal
+1529;1529 Skodje (-2019);8;Møre og Romsdal
+1531;1531 Sula;8;Møre og Romsdal
+1532;1532 Giske;8;Møre og Romsdal
+1534;1534 Haram (-2019);8;Møre og Romsdal
+1535;1535 Vestnes;8;Møre og Romsdal
+1539;1539 Rauma;8;Møre og Romsdal
+1543;1543 Nesset (-2019);8;Møre og Romsdal
+1545;1545 Midsund (-2019);8;Møre og Romsdal
+1546;1546 Sandøy (-2019);8;Møre og Romsdal
+1547;1547 Aukra;8;Møre og Romsdal
+1548;1548 Fræna (-2019);8;Møre og Romsdal
+1551;1551 Eide (-2019);8;Møre og Romsdal
+1554;1554 Averøy;8;Møre og Romsdal
+1557;1557 Gjemnes;8;Møre og Romsdal
+1560;1560 Tingvoll;8;Møre og Romsdal
+1563;1563 Sunndal;8;Møre og Romsdal
+1566;1566 Surnadal;8;Møre og Romsdal
+1567;1567 Rindal (-2018);7;St. Olavs
+1571;1571 Halsa (-2019);8;Møre og Romsdal
+1573;1573 Smøla;8;Møre og Romsdal
+1576;1576 Aure;8;Møre og Romsdal
+1577;1577 Volda;8;Møre og Romsdal
+1578;1578 Fjord;8;Møre og Romsdal
+1579;1579 Hustadvika;8;Møre og Romsdal
+1601;1601 Trondheim (-2017);7;St. Olavs
+1612;1612 Hemne (-2017);7;St. Olavs
+1613;1613 Snillfjord (-2017);7;St. Olavs
+1617;1617 Hitra (-2017);7;St. Olavs
+1620;1620 Frøya (-2017);7;St. Olavs
+1621;1621 Ørland (-2017);7;St. Olavs
+1622;1622 Agdenes (-2017);7;St. Olavs
+1624;1624 Rissa (-2017);7;St. Olavs
+1627;1627 Bjugn (-2017);7;St. Olavs
+1630;1630 Åfjord (-2017);7;St. Olavs
+1632;1632 Roan (-2017);6;Nord-Trøndelag
+1633;1633 Osen (-2017);6;Nord-Trøndelag
+1634;1634 Oppdal (-2017);7;St. Olavs
+1635;1635 Rennebu (-2017);7;St. Olavs
+1636;1636 Meldal (-2017);7;St. Olavs
+1638;1638 Orkdal (-2017);7;St. Olavs
+1640;1640 Røros (-2017);7;St. Olavs
+1644;1644 Holtålen (-2017);7;St. Olavs
+1648;1648 Midtre Gauldal (-2017);7;St. Olavs
+1653;1653 Melhus (-2017);7;St. Olavs
+1657;1657 Skaun (-2017);7;St. Olavs
+1662;1662 Klæbu (-2017);7;St. Olavs
+1663;1663 Malvik (-2017);7;St. Olavs
+1664;1664 Selbu (-2017);7;St. Olavs
+1665;1665 Tydal (-2017);7;St. Olavs
+1702;1702 Steinkjer (-2017);6;Nord-Trøndelag
+1703;1703 Namsos (-2017);6;Nord-Trøndelag
+1711;1711 Meråker (-2017);6;Nord-Trøndelag
+1714;1714 Stjørdal (-2017);6;Nord-Trøndelag
+1717;1717 Frosta (-2017);6;Nord-Trøndelag
+1718;1718 Leksvik (-2017);6;Nord-Trøndelag
+1719;1719 Levanger (-2017);6;Nord-Trøndelag
+1721;1721 Verdal (-2017);6;Nord-Trøndelag
+1723;1723 Mosvik  (-2011);6;Nord-Trøndelag
+1724;1724 Verran (-2017);6;Nord-Trøndelag
+1725;1725 Namdalseid (-2017);6;Nord-Trøndelag
+1729;1729 Inderøy (-2011);6;Nord-Trøndelag
+1736;1736 Snåase - Snåsa (-2017);6;Nord-Trøndelag
+1738;1738 Lierne (-2017);6;Nord-Trøndelag
+1739;1739 Raarvihke - Røyrvik (-2017);6;Nord-Trøndelag
+1740;1740 Namsskogan (-2017);6;Nord-Trøndelag
+1742;1742 Grong (-2017);6;Nord-Trøndelag
+1743;1743 Høylandet (-2017);6;Nord-Trøndelag
+1744;1744 Overhalla (-2017);6;Nord-Trøndelag
+1748;1748 Fosnes (-2017);6;Nord-Trøndelag
+1749;1749 Flatanger (-2017);6;Nord-Trøndelag
+1750;1750 Vikna (-2017);6;Nord-Trøndelag
+1751;1751 Nærøy (-2017);6;Nord-Trøndelag
+1755;1755 Leka (-2017);6;Nord-Trøndelag
+1756;1756 Inderøy (-2017);6;Nord-Trøndelag
+1804;1804 Bodø;3;Nordland
+1805;1805 Narvik (-2019);2;UNN
+1806;1806 Narvik;2;UNN
+1811;1811 Bindal;4;Helgeland
+1812;1812 Sømna;4;Helgeland
+1813;1813 Brønnøy;4;Helgeland
+1815;1815 Vega;4;Helgeland
+1816;1816 Vevelstad;4;Helgeland
+1818;1818 Herøy (Nordland);4;Helgeland
+1820;1820 Alstahaug;4;Helgeland
+1822;1822 Leirfjord;4;Helgeland
+1824;1824 Vefsn;4;Helgeland
+1825;1825 Grane;4;Helgeland
+1826;1826 Hattfjelldal;4;Helgeland
+1827;1827 Dønna;4;Helgeland
+1828;1828 Nesna;4;Helgeland
+1832;1832 Hemnes;4;Helgeland
+1833;1833 Rana;4;Helgeland
+1834;1834 Lurøy;4;Helgeland
+1835;1835 Træna;4;Helgeland
+1836;1836 Rødøy;4;Helgeland
+1837;1837 Meløy;3;Nordland
+1838;1838 Gildeskål;3;Nordland
+1839;1839 Beiarn;3;Nordland
+1840;1840 Saltdal;3;Nordland
+1841;1841 Fauske - Fuossko;3;Nordland
+1845;1845 Sørfold;3;Nordland
+1848;1848 Steigen;3;Nordland
+1849;1849 Hamarøy - Hábmer (-2019);3;Nordland
+1850;1850 Divtasvuodna - Tysfjord (-2019);3;Nordland
+1851;1851 Lødingen;2;UNN
+1852;1852 Tjeldsund (-2019);2;UNN
+1853;1853 Evenes;2;UNN
+1854;1854 Ballangen (-2019);2;UNN
+1856;1856 Røst;3;Nordland
+1857;1857 Værøy;3;Nordland
+1859;1859 Flakstad;3;Nordland
+1860;1860 Vestvågøy;3;Nordland
+1865;1865 Vågan;3;Nordland
+1866;1866 Hadsel;3;Nordland
+1867;1867 Bø (Nordland);3;Nordland
+1868;1868 Øksnes;3;Nordland
+1870;1870 Sortland - Suortá;3;Nordland
+1871;1871 Andøy;3;Nordland
+1874;1874 Moskenes;3;Nordland
+1875;1875 Hamarøy;3;Nordland
+1901;1901 Harstad (-2012);2;UNN
+1902;1902 Tromsø (-2019);2;UNN
+1903;1903 Harstad - Hárstták (2013-2019);2;UNN
+1911;1911 Kvæfjord (-2019);2;UNN
+1913;1913 Skånland (-2019);2;UNN
+1915;1915 Bjarkøy (-2012);2;UNN
+1917;1917 Ibestad (-2019);2;UNN
+1919;1919 Gratangen (-2019);2;UNN
+1920;1920 Loabák - Lavangen (-2019);2;UNN
+1922;1922 Bardu (-2019);2;UNN
+1923;1923 Salangen (1977-2019);2;UNN
+1924;1924 Målselv (-2019);2;UNN
+1925;1925 Sørreisa (-2019);2;UNN
+1926;1926 Dyrøy (-2019);2;UNN
+1927;1927 Tranøy (-2019);2;UNN
+1928;1928 Torsken (-2019);2;UNN
+1929;1929 Berg (-2019);2;UNN
+1931;1931 Lenvik (-2019);2;UNN
+1933;1933 Balsfjord (-2019);2;UNN
+1936;1936 Karlsøy (-2019);2;UNN
+1938;1938 Lyngen (-2019);2;UNN
+1939;1939 Storfjord - Omasvuotna - Omasvuono (-2019);2;UNN
+1940;1940 Gáivuotna - Kåfjord - Kaivuono (-2019);2;UNN
+1941;1941 Skjervøy (-2019);2;UNN
+1942;1942 Nordreisa - Ráisa - Raisi (-2019);2;UNN
+1943;1943 Kvænangen (-2019);2;UNN
+2002;2002 Vardø (-2019);1;Finnmark
+2003;2003 Vadsø (-2019);1;Finnmark
+2004;2004 Hammerfest (1992-2019);1;Finnmark
+2011;2011 Guovdageaidnu - Kautokeino (-2019);1;Finnmark
+2012;2012 Alta (-2019);1;Finnmark
+2014;2014 Loppa (-2019);1;Finnmark
+2015;2015 Hasvik (-2019);1;Finnmark
+2017;2017 Kvalsund (-2019);1;Finnmark
+2018;2018 Måsøy (-2019);1;Finnmark
+2019;2019 Nordkapp (-2019);1;Finnmark
+2020;2020 Porsanger - Porsángu - Porsanki (-2019);1;Finnmark
+2021;2021 Kárásjohka - Karasjok (-2019);1;Finnmark
+2022;2022 Lebesby (-2019);1;Finnmark
+2023;2023 Gamvik (-2019);1;Finnmark
+2024;2024 Berlevåg (-2019);1;Finnmark
+2025;2025 Deatnu - Tana (-2019);1;Finnmark
+2027;2027 Unjárga - Nesseby (-2019);1;Finnmark
+2028;2028 Båtsfjord (-2019);1;Finnmark
+2030;2030 Sør-Varanger (-2019);1;Finnmark
+2100;2100 Svalbard;24;Utlandet
+2111;2111 Spitsbergen;24;Utlandet
+2121;2121 Bjørnøya;24;Utlandet
+2131;2131 Hopen;24;Utlandet
+2211;2211 Jan Mayen;24;Utlandet
+2311;2311 Kontinentalsokkelen;24;Utlandet
+2321;2321 Kontinentalsokkelen;24;Utlandet
+3001;3001 Halden;14;Østfold
+3002;3002 Moss;14;Østfold
+3003;3003 Sarpsborg;14;Østfold
+3004;3004 Fredrikstad;14;Østfold
+3005;3005 Drammen;20;Vestre Viken
+3006;3006 Kongsberg;20;Vestre Viken
+3007;3007 Ringerike;20;Vestre Viken
+3011;3011 Hvaler;14;Østfold
+3012;3012 Aremark;14;Østfold
+3013;3013 Marker;14;Østfold
+3014;3014 Indre Østfold;14;Østfold
+3015;3015 Skiptvet;14;Østfold
+3016;3016 Rakkestad;14;Østfold
+3017;3017 Råde;14;Østfold
+3018;3018 Våler (Viken);14;Østfold
+3019;3019 Vestby;15;Akershus
+3020;3020 Nordre Follo;15;Akershus
+3021;3021 Ås;15;Akershus
+3022;3022 Frogn;15;Akershus
+3023;3023 Nesodden;15;Akershus
+3024;3024 Bærum;20;Vestre Viken
+3025;3025 Asker;20;Vestre Viken
+3026;3026 Aurskog-Høland;15;Akershus
+3027;3027 Rælingen;15;Akershus
+3028;3028 Enebakk;15;Akershus
+3029;3029 Lørenskog;15;Akershus
+3030;3030 Lillestrøm;15;Akershus
+3031;3031 Nittedal;15;Akershus
+3032;3032 Gjerdrum;15;Akershus
+3033;3033 Ullensaker;15;Akershus
+3034;3034 Nes;19;Innlandet
+3035;3035 Eidsvoll;15;Akershus
+3036;3036 Nannestad;15;Akershus
+3037;3037 Hurdal;15;Akershus
+3038;3038 Hole;20;Vestre Viken
+3039;3039 Flå;20;Vestre Viken
+3040;3040 Nesbyen;20;Vestre Viken
+3041;3041 Gol;20;Vestre Viken
+3042;3042 Hemsedal;20;Vestre Viken
+3043;3043 Ål;20;Vestre Viken
+3044;3044 Hol;20;Vestre Viken
+3045;3045 Sigdal;20;Vestre Viken
+3046;3046 Krødsherad;20;Vestre Viken
+3047;3047 Modum;20;Vestre Viken
+3048;3048 Øvre Eiker;20;Vestre Viken
+3049;3049 Lier;20;Vestre Viken
+3050;3050 Flesberg;20;Vestre Viken
+3051;3051 Rollag;20;Vestre Viken
+3052;3052 Nore og Uvdal;20;Vestre Viken
+3053;3053 Jevnaker;20;Vestre Viken
+3054;3054 Lunner;19;Innlandet
+3401;3401 Kongsvinger;19;Innlandet
+3403;3403 Hamar;19;Innlandet
+3405;3405 Lillehammer;19;Innlandet
+3407;3407 Gjøvik;19;Innlandet
+3411;3411 Ringsaker;19;Innlandet
+3412;3412 Løten;19;Innlandet
+3413;3413 Stange;19;Innlandet
+3414;3414 Nord-Odal;19;Innlandet
+3415;3415 Sør-Odal;19;Innlandet
+3416;3416 Eidskog;19;Innlandet
+3417;3417 Grue;19;Innlandet
+3418;3418 Åsnes;19;Innlandet
+3419;3419 Våler (Innlandet);19;Innlandet
+3420;3420 Elverum;19;Innlandet
+3421;3421 Trysil;19;Innlandet
+3422;3422 Åmot;19;Innlandet
+3423;3423 Stor-Elvdal;19;Innlandet
+3424;3424 Rendalen;19;Innlandet
+3425;3425 Engerdal;19;Innlandet
+3426;3426 Tolga;19;Innlandet
+3427;3427 Tynset;19;Innlandet
+3428;3428 Alvdal;19;Innlandet
+3429;3429 Folldal;19;Innlandet
+3430;3430 Os;19;Innlandet
+3431;3431 Dovre;19;Innlandet
+3432;3432 Lesja;19;Innlandet
+3433;3433 Skjåk;19;Innlandet
+3434;3434 Lom;19;Innlandet
+3435;3435 Vågå;19;Innlandet
+3436;3436 Nord-Fron;19;Innlandet
+3437;3437 Sel;19;Innlandet
+3438;3438 Sør-Fron;19;Innlandet
+3439;3439 Ringebu;19;Innlandet
+3440;3440 Øyer;19;Innlandet
+3441;3441 Gausdal;19;Innlandet
+3442;3442 Østre Toten;19;Innlandet
+3443;3443 Vestre Toten;19;Innlandet
+3446;3446 Gran;19;Innlandet
+3447;3447 Søndre Land;19;Innlandet
+3448;3448 Nordre Land;19;Innlandet
+3449;3449 Sør-Aurdal;19;Innlandet
+3450;3450 Etnedal;19;Innlandet
+3451;3451 Nord-Aurdal;19;Innlandet
+3452;3452 Vestre Slidre;19;Innlandet
+3453;3453 Øystre Slidre;19;Innlandet
+3454;3454 Vang;19;Innlandet
+3801;3801 Horten;21;Vestfold
+3802;3802 Holmestrand;21;Vestfold
+3803;3803 Tønsberg;21;Vestfold
+3804;3804 Sandefjord;21;Vestfold
+3805;3805 Larvik;21;Vestfold
+3806;3806 Porsgrunn;22;Telemark
+3807;3807 Skien;22;Telemark
+3808;3808 Notodden;22;Telemark
+3811;3811 Færder;21;Vestfold
+3812;3812 Siljan;22;Telemark
+3813;3813 Bamble;22;Telemark
+3814;3814 Kragerø;22;Telemark
+3815;3815 Drangedal;22;Telemark
+3816;3816 Nome;22;Telemark
+3817;3817 Midt-Telemark;22;Telemark
+3818;3818 Tinn;22;Telemark
+3819;3819 Hjartdal;22;Telemark
+3820;3820 Seljord;22;Telemark
+3821;3821 Kviteseid;22;Telemark
+3822;3822 Nissedal;22;Telemark
+3823;3823 Fyresdal;22;Telemark
+3824;3824 Tokke;22;Telemark
+3825;3825 Vinje;22;Telemark
+4201;4201 Risør;23;Sørlandet
+4202;4202 Grimstad;23;Sørlandet
+4203;4203 Arendal;23;Sørlandet
+4204;4204 Kristiansand;23;Sørlandet
+4205;4205 Lindesnes;23;Sørlandet
+4206;4206 Farsund;23;Sørlandet
+4207;4207 Flekkefjord;23;Sørlandet
+4211;4211 Gjerstad;23;Sørlandet
+4212;4212 Vegårshei;23;Sørlandet
+4213;4213 Tvedestrand;23;Sørlandet
+4214;4214 Froland;23;Sørlandet
+4215;4215 Lillesand;23;Sørlandet
+4216;4216 Birkenes;23;Sørlandet
+4217;4217 Åmli;23;Sørlandet
+4218;4218 Iveland;23;Sørlandet
+4219;4219 Evje og Hornnes;23;Sørlandet
+4220;4220 Bygland;23;Sørlandet
+4221;4221 Valle;23;Sørlandet
+4222;4222 Bykle;23;Sørlandet
+4223;4223 Vennesla;23;Sørlandet
+4224;4224 Åseral;23;Sørlandet
+4225;4225 Lyngdal;23;Sørlandet
+4226;4226 Hægebostad;23;Sørlandet
+4227;4227 Kvinesdal;23;Sørlandet
+4228;4228 Sirdal;23;Sørlandet
+4601;4601 Bergen;11;Bergen
+4602;4602 Kinn;10;Førde
+4611;4611 Etne;12;Fonna
+4612;4612 Sveio;12;Fonna
+4613;4613 Bømlo;12;Fonna
+4614;4614 Stord;12;Fonna
+4615;4615 Fitjar;12;Fonna
+4616;4616 Tysnes;12;Fonna
+4617;4617 Kvinnherad;12;Fonna
+4618;4618 Ullensvang;12;Fonna
+4619;4619 Eidfjord;12;Fonna
+4620;4620 Ulvik;11;Bergen
+4621;4621 Voss;11;Bergen
+4622;4622 Kvam;11;Bergen
+4623;4623 Samnanger;11;Bergen
+4624;4624 Bjørnafjorden;11;Bergen
+4625;4625 Austevoll;11;Bergen
+4626;4626 Øygarden;11;Bergen
+4627;4627 Askøy;11;Bergen
+4628;4628 Vaksdal;11;Bergen
+4629;4629 Modalen;11;Bergen
+4630;4630 Osterøy;11;Bergen
+4631;4631 Alver;11;Bergen
+4632;4632 Austrheim;11;Bergen
+4633;4633 Fedje;11;Bergen
+4634;4634 Masfjorden;11;Bergen
+4635;4635 Gulen;10;Førde
+4636;4636 Solund;10;Førde
+4637;4637 Hyllestad;10;Førde
+4638;4638 Høyanger;10;Førde
+4639;4639 Vik;10;Førde
+4640;4640 Sogndal;10;Førde
+4641;4641 Aurland;10;Førde
+4642;4642 Lærdal;10;Førde
+4643;4643 Årdal;10;Førde
+4644;4644 Luster;10;Førde
+4645;4645 Askvoll;10;Førde
+4646;4646 Fjaler;10;Førde
+4647;4647 Sunnfjord;10;Førde
+4648;4648 Bremanger;10;Førde
+4649;4649 Stad;10;Førde
+4650;4650 Gloppen;10;Førde
+4651;4651 Stryn;10;Førde
+5001;5001 Trondheim;7;St. Olavs
+5004;5004 Steinkjer (2018-2019);6;Nord-Trøndelag
+5005;5005 Namsos (2018-2019);6;Nord-Trøndelag
+5006;5006 Steinkjer;6;Nord-Trøndelag
+5007;5007 Namsos;6;Nord-Trøndelag
+5011;5011 Hemne (2018-2019);7;St. Olavs
+5012;5012 Snillfjord (2018-2019);7;St. Olavs
+5013;5013 Hitra (2018-2019);7;St. Olavs
+5014;5014 Frøya;7;St. Olavs
+5015;5015 Ørland (2018-2019);7;St. Olavs
+5016;5016 Agdenes (2018-2019);7;St. Olavs
+5017;5017 Bjugn (2018-2019);7;St. Olavs
+5018;5018 Åfjord (2018-2019);7;St. Olavs
+5019;5019 Roan (2018-2019);6;Nord-Trøndelag
+5020;5020 Osen;6;Nord-Trøndelag
+5021;5021 Oppdal;7;St. Olavs
+5022;5022 Rennebu;7;St. Olavs
+5023;5023 Meldal (2018-2019);7;St. Olavs
+5024;5024 Orkdal (2018-2019);7;St. Olavs
+5025;5025 Røros;7;St. Olavs
+5026;5026 Holtålen;7;St. Olavs
+5027;5027 Midtre Gauldal;7;St. Olavs
+5028;5028 Melhus;7;St. Olavs
+5029;5029 Skaun;7;St. Olavs
+5030;5030 Klæbu (2018-2019);7;St. Olavs
+5031;5031 Malvik;7;St. Olavs
+5032;5032 Selbu;7;St. Olavs
+5033;5033 Tydal;7;St. Olavs
+5034;5034 Meråker;6;Nord-Trøndelag
+5035;5035 Stjørdal;6;Nord-Trøndelag
+5036;5036 Frosta;6;Nord-Trøndelag
+5037;5037 Levanger;6;Nord-Trøndelag
+5038;5038 Verdal;6;Nord-Trøndelag
+5039;5039 Verran (2018-2019);6;Nord-Trøndelag
+5040;5040 Namdalseid (2018-2019);6;Nord-Trøndelag
+5041;5041 Snåase - Snåsa;6;Nord-Trøndelag
+5042;5042 Lierne;6;Nord-Trøndelag
+5043;5043 Raarvihke - Røyrvik;6;Nord-Trøndelag
+5044;5044 Namsskogan;6;Nord-Trøndelag
+5045;5045 Grong;6;Nord-Trøndelag
+5046;5046 Høylandet;6;Nord-Trøndelag
+5047;5047 Overhalla;6;Nord-Trøndelag
+5048;5048 Fosnes (2018-2019);6;Nord-Trøndelag
+5049;5049 Flatanger;6;Nord-Trøndelag
+5050;5050 Vikna (2018-2019);6;Nord-Trøndelag
+5051;5051 Nærøy (2018-2019);6;Nord-Trøndelag
+5052;5052 Leka;6;Nord-Trøndelag
+5053;5053 Inderøy;6;Nord-Trøndelag
+5054;5054 Indre Fosen;7;St. Olavs
+5055;5055 Heim;7;St. Olavs
+5056;5056 Hitra;7;St. Olavs
+5057;5057 Ørland;7;St. Olavs
+5058;5058 Åfjord;7;St. Olavs
+5059;5059 Orkland;7;St. Olavs
+5060;5060 Nærøysund;6;Nord-Trøndelag
+5061;5061 Rindal;7;St. Olavs
+5401;5401 Tromsø;2;UNN
+5402;5402 Harstad;2;UNN
+5403;5403 Alta;1;Finnmark
+5404;5404 Vardø;1;Finnmark
+5405;5405 Vadsø;1;Finnmark
+5406;5406 Hammerfest;1;Finnmark
+5411;5411 Kvæfjord;2;UNN
+5412;5412 Tjeldsund;2;UNN
+5413;5413 Ibestad;2;UNN
+5414;5414 Gratangen;2;UNN
+5415;5415 Loabák - Lavangen;2;UNN
+5416;5416 Bardu;2;UNN
+5417;5417 Salangen;2;UNN
+5418;5418 Målselv;2;UNN
+5419;5419 Sørreisa;2;UNN
+5420;5420 Dyrøy;2;UNN
+5421;5421 Senja;2;UNN
+5422;5422 Balsfjord;2;UNN
+5423;5423 Karlsøy;2;UNN
+5424;5424 Lyngen;2;UNN
+5425;5425 Storfjord - Omasvuotna - Omasvuono;2;UNN
+5426;5426 Gáivuotna - Kåfjord - Kaivuono;2;UNN
+5427;5427 Skjervøy;2;UNN
+5428;5428 Nordreisa;2;UNN
+5429;5429 Kvænangen;2;UNN
+5430;5430 Guovdageaidnu - Kautokeino;1;Finnmark
+5432;5432 Loppa;1;Finnmark
+5433;5433 Hasvik;1;Finnmark
+5434;5434 Måsøy;1;Finnmark
+5435;5435 Nordkapp;1;Finnmark
+5436;5436 Porsanger - Porsángu - Porsanki ;1;Finnmark
+5437;5437 Kárásjohka - Karasjok;1;Finnmark
+5438;5438 Lebesby;1;Finnmark
+5439;5439 Gamvik;1;Finnmark
+5440;5440 Berlevåg;1;Finnmark
+5441;5441 Deatnu-Tana;1;Finnmark
+5442;5442 Unjárga-Nesseby;1;Finnmark
+5443;5443 Båtsfjord;1;Finnmark
+5444;5444 Sør-Varanger;1;Finnmark
+9000;9000 Utenlandske statsborgere uten konvensjonsavtale;24;Utlandet
+9900;9900 Utenlandske statsborgere med konvensjonsavtale;24;Utlandet
+9999;9999 Ukjent;99;Ukjent
