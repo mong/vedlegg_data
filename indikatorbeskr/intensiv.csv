@@ -1,0 +1,4 @@
+"id";"dg_id";"title";"type";"min_denominator";"level_green";"level_yellow";"level_direction";"short_description";"long_description"
+"intensiv_dg";"";"Dekningsgrad";"andel";NA;0,8;0,6;1;"Dekningsgraden angir hvor fullstendig registeret er, det vil si hvor stor andel av innleggelsene på intensiv som er registrerte i registeret.";""
+"intensiv_innlegg_72t";"intensiv_dg";"Ny innlegging innan 72 timar";"andel";10;0,04;0,04;0;"Reinnleggelser på intensivavd. (innen 72t) uten overflyttede pasienter";"Reinnleggelser på intensivavd. (innen 72t) uten overflyttede pasienter"
+"intensiv_inv_vent";"intensiv_dg";"Invasiv ventilasjon (uten overførte pasienter)";"andel";10;0,5;0,5;1;"Respiratortid er den tida pasienten får pustehjelp frå ein respirator via eit pusterøyr i eit lukka system. Målet er at minst halvdelen av slike opphaold skal ha respiratortid under 2,5 døger. (Median respiratortid < 2,5 døger)";""
